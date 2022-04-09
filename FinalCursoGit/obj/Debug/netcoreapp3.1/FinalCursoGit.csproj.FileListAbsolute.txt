@@ -1,0 +1,14 @@
+D:\programacion\itics\Finales\Proyecto_git_final\FinalCursoGit\FinalCursoGit\bin\Debug\netcoreapp3.1\FinalCursoGit.exe
+D:\programacion\itics\Finales\Proyecto_git_final\FinalCursoGit\FinalCursoGit\bin\Debug\netcoreapp3.1\FinalCursoGit.deps.json
+D:\programacion\itics\Finales\Proyecto_git_final\FinalCursoGit\FinalCursoGit\bin\Debug\netcoreapp3.1\FinalCursoGit.runtimeconfig.json
+D:\programacion\itics\Finales\Proyecto_git_final\FinalCursoGit\FinalCursoGit\bin\Debug\netcoreapp3.1\FinalCursoGit.runtimeconfig.dev.json
+D:\programacion\itics\Finales\Proyecto_git_final\FinalCursoGit\FinalCursoGit\bin\Debug\netcoreapp3.1\FinalCursoGit.dll
+D:\programacion\itics\Finales\Proyecto_git_final\FinalCursoGit\FinalCursoGit\bin\Debug\netcoreapp3.1\FinalCursoGit.pdb
+D:\programacion\itics\Finales\Proyecto_git_final\FinalCursoGit\FinalCursoGit\obj\Debug\netcoreapp3.1\FinalCursoGit.csproj.AssemblyReference.cache
+D:\programacion\itics\Finales\Proyecto_git_final\FinalCursoGit\FinalCursoGit\obj\Debug\netcoreapp3.1\FinalCursoGit.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\itics\Finales\Proyecto_git_final\FinalCursoGit\FinalCursoGit\obj\Debug\netcoreapp3.1\FinalCursoGit.AssemblyInfoInputs.cache
+D:\programacion\itics\Finales\Proyecto_git_final\FinalCursoGit\FinalCursoGit\obj\Debug\netcoreapp3.1\FinalCursoGit.AssemblyInfo.cs
+D:\programacion\itics\Finales\Proyecto_git_final\FinalCursoGit\FinalCursoGit\obj\Debug\netcoreapp3.1\FinalCursoGit.csproj.CoreCompileInputs.cache
+D:\programacion\itics\Finales\Proyecto_git_final\FinalCursoGit\FinalCursoGit\obj\Debug\netcoreapp3.1\FinalCursoGit.dll
+D:\programacion\itics\Finales\Proyecto_git_final\FinalCursoGit\FinalCursoGit\obj\Debug\netcoreapp3.1\FinalCursoGit.pdb
+D:\programacion\itics\Finales\Proyecto_git_final\FinalCursoGit\FinalCursoGit\obj\Debug\netcoreapp3.1\FinalCursoGit.genruntimeconfig.cache
