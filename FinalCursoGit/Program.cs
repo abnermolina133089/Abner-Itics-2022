@@ -14,6 +14,8 @@ namespace FinalCursoGit
             Console.WriteLine("------3 eliminar registro------------");
             Console.WriteLine("------3 buscar registro--------------");
             Console.WriteLine("-------------------------------------");
+            Console.WriteLine("-------Utilice opcion 0 para salir-------");
+            Console.WriteLine(" fin de menu");
 
         }
     }
